@@ -3,7 +3,11 @@ The project was created to control volume of PC or laptop via hand detection. Wh
 
 Python Libraries required:
 a. CV2
+
 b. Mediapipe
+
 c. cast and POINTER form ctypes
+
 d. AudioUtilities and IAudioEndpointVolume
+
 e. numpy
